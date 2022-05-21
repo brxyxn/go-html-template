@@ -13,7 +13,7 @@ cd go-html-template
 go run main.go
 ```
 
-Open <a href="localhost:8080/counter/" target="_blank">localhost:8080/counter/</a>
+Open <a href="http://localhost:8080/counter/" target="_blank">localhost:8080/counter/</a>
 
 ## Preview
 
